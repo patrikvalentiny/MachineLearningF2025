@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb~
+
+# Data files
+datasets/
+data/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.json
+*.zip
+*.tgz
+*.tar.gz
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
