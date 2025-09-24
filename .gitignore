@@ -31,6 +31,8 @@ data/
 *.zip
 *.tgz
 *.tar.gz
+*.keras
+my_logs/
 
 # Environment files
 .env
